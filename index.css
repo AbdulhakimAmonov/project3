@@ -1,0 +1,99 @@
+body{
+    background: #eff6fa;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+   
+}
+.div{
+    width: 600px;
+    height: 300px;
+    border: 1px dashed black;
+    border-radius: 10px;
+    margin-left: 1200px;
+    background-color: #eff6fa;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 10px 10px 20px rgb(135, 134, 134);
+}
+.nom{
+   margin-left: 420px;
+    border-radius: 50%;
+    margin-top: -1400px;
+    margin-bottom: 110px;
+    box-shadow: 5px 5px 15px grey;
+}
+.batafsil{
+    /* margin-left: 250px; */
+    width: 200px;
+    height: 100px;
+    border: 1px solid rgb(214, 214, 213);
+    border-radius: 10px;
+    background-color: #eff6fa;
+    color: rgb(182, 182, 179);
+}
+.batafsil:hover{
+    background-color: #eff6fa;
+    color: yellow;
+    transition: all 4s;
+    transform: scale(1);
+}
+ul li {
+    color: grey;
+}
+h3{
+    color: grey;
+}
+.input1 .input2{
+ text-align: right;
+}
+.div-men{
+    width: 600px;
+    height: 330px;
+    border: 1px dashed black;
+    border-radius: 10px;
+    margin-left: 1200px;
+    background-color: #eff6fa;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 10px 10px 20px rgb(138, 138, 138);
+  flex-wrap: wrap;
+  /* justify-content: right;
+  align-items: right; */
+  text-align: left;
+  margin-top: -450px;
+  margin-right: 400px;
+}
+.nom{
+   margin-left: 420px;
+    border-radius: 50%;
+    margin-top: -1400px;
+    margin-bottom: 110px;
+    box-shadow: 5px 5px 15px rgb(228, 227, 227);
+}
+.batafsil{
+    /* margin-left: 250px; */
+    width: 200px;
+    height: 100px;
+    border: 1px solid rgb(214, 214, 213);
+    border-radius: 10px;
+    background-color: #eff6fa;
+    color: rgb(182, 182, 179);
+}
+.batafsil:hover{
+    background-color: #eff6fa;
+    color: yellow;
+    transition: all 4s;
+    transform: scale(1);
+}
+ul li {
+    color: grey;
+}
+h3{
+    color: grey;
+}
+.input1 .input2{
+ text-align: right;
+}
